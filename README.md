@@ -1,13 +1,15 @@
 # Digital Signal Processing System
 ## It's a digital signal processing system built from scratch using Python.
 ## The system involves multiple signal operations, including:
-  basic operations like folding, shifting, scalling, normalizing, etc.
-  Creating random signals
-  Quantization
-  Fast Fourier Transform(DFT,IDFT,DCT)
-  Smoothing and sharpening,
-  Convolution and correlation
-  Resampling
+  basic operations like folding, shifting, scalling, normalizing,
+  Creating random signals,
+  Quantization,
+  Fast Fourier Transform(DFT,IDFT,DCT),
+  Smoothing,
+  sharpening,
+  Convolution,
+  correlation,
+  Resampling,
   Creating filters to be convolved, like:
   low pass,
   high pass,
