@@ -9,9 +9,9 @@
   Convolution and correlation
   Resampling
   Creating filters to be convolved, like:
-  low pass
-  high pass
-  band pass
+  low pass,
+  high pass,
+  band pass,
   band stop
 ## The system contains visualizations and a GUI but needs more development.
 ## The system deals with the outputs and inputs in the form of files with a given format.
